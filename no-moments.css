@@ -1,3 +1,11 @@
 #global-actions > .moments {
   display: none;
 }
+
+.dashboard .DashboardProfileCard-content .ProfileCardStats {
+  display: none;
+}
+
+.dashboard .wtf-module, .dashboard .wtf-module.has-content {
+  display: none;
+}
